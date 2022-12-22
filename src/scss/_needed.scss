@@ -1,0 +1,92 @@
+@mixin largeDesktops {
+    @media only screen and (min-width: 1367px) {
+        @content;
+    }
+}
+
+@mixin mediumDesktops {
+    //laptops / huge tablets landscape mode (Nexus 10)
+    @media only screen and (max-width: 1366px) and (min-width: 1025px) {
+        @content;
+    }
+}
+
+@mixin hugeTablets {
+    //large tablet in landscape mode (Nexus 7)
+    @media only screen and (max-width: 1024px) and (min-width: 769px) {
+        @content;
+    }
+}
+
+@mixin hugeTabletsShort {
+    //large phones in Landpscape Mode (iPhone XR/XS Max etc)
+    @media only screen and (max-width: 1024px) and (min-width: 769px) and (max-height: 480px) {
+        @content;
+    }
+}
+
+@mixin hugeTabletsShortP {
+    //large phones in Landpscape Mode (iPhone XR/XS Max etc)
+    @media only screen and (max-width: 1024px) and (min-width: 769px) and (max-height: 1112px) {
+        @content;
+    }
+}
+
+@mixin largeTablets {
+    //large tablet portrait mode / mew phones landscape mode
+    @media only screen and (max-width: 768px) and (min-width: 481px) {
+        @content;
+    }
+}
+
+@mixin largeTabletsShort {
+    //large tablet portrait mode / mew phones landscape mode
+    @media only screen and (max-width: 768px) and (min-width: 481px) and (max-height: 960px) {
+        @content;
+    }
+}
+
+@mixin mediumTablets {
+    //new phones portrait mode /old phones landscape mode
+    @media only screen and (max-width: 480px) and (min-width: 360px) {
+        @content;
+    }
+}
+
+@mixin mediumTabletsShort {
+    //new phones portrait mode /old phones landscape mode
+    @media only screen and (max-width: 480px) and (min-width: 360px) and (max-height: 820px) {
+        @content;
+    }
+}
+
+@mixin smallTablets {
+    //old phones
+    @media only screen and (max-width: 359px) {
+        @content;
+    }
+}
+
+@mixin allDesktops {
+    @media only screen and (min-width: 1025px) {
+        @content;
+    }
+}
+
+@mixin allTablets {
+    @media only screen and (max-width: 1024px) {
+        @content;
+    }
+}
+
+@mixin landscapeMode {
+    @media only screen and (orientation: landscape) {
+        @content;
+    }
+}
+
+@mixin portraitMode {
+    @media only screen and (orientation: portrait) {
+        @content;
+    }
+}

@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460.723" height="124.184" viewBox="0 0 460.723 124.184">
+  <defs>
+    <filter id="My_Project" x="6.986" y="0" width="86" height="79" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.62"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="My_Project-2" x="8.425" y="67.184" width="122" height="57" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.62"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_15" x="0" y="60.527" width="155.455" height="27.98" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_23" x="166.559" y="49.471" width="82.358" height="36.624" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#1aff00"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_24" x="166.559" y="62.733" width="53.957" height="36.624" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#00dcff" flood-opacity="0.988"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_43" x="166.559" y="36.21" width="99.338" height="36.624" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="red"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_262" x="166.559" y="75.994" width="77.729" height="36.624" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-color="#ffe600" flood-opacity="0.988"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_269" x="191.991" y="62.733" width="76.397" height="36.624" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-color="#fe03cc" flood-opacity="0.988"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_14" x="144.818" y="42.866" width="41.701" height="62.819" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-color="#fff" flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Diet_follows_you" x="268.723" y="47.658" width="192" height="48" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-color="#fff" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1085" data-name="Group 1085" transform="translate(7.77 9.268)">
+    <g id="Group_72" data-name="Group 72" transform="translate(1.23 1.732)">
+      <g id="Group_17" data-name="Group 17" transform="translate(0 0)">
+        <g id="Group_8" data-name="Group 8" transform="translate(3.986)">
+          <g id="Title" transform="translate(0)">
+            <g transform="matrix(1, 0, 0, 1, -12.99, -11)" filter="url(#My_Project)">
+              <text id="My_Project-3" data-name="My Project" transform="translate(12.99 59)" fill="#fff" font-size="51" font-family="'Roboto', sans-serif" font-weight="700" opacity="0.998"><tspan x="0" y="0">Eat</tspan></text>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -12.99, -11)" filter="url(#My_Project-2)">
+              <text id="My_Project-4" data-name="My Project" transform="translate(14.42 109.18)" fill="#fff" font-size="34" font-family="'Roboto', sans-serif" font-weight="700"><tspan x="0" y="0">Project</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="Group_73" data-name="Group 73" transform="translate(0 58.527)">
+          <g transform="matrix(1, 0, 0, 1, -9, -69.53)" filter="url(#Path_15)">
+            <path id="Path_15-2" data-name="Path 15" d="M0,0,137.455,2.073V7.357L0,9.98Z" transform="translate(9 69.53)" fill="#fff" opacity="0.99"/>
+          </g>
+          <g id="Group_51" data-name="Group 51" transform="translate(136.639 3.589)">
+            <rect id="Rectangle_254" data-name="Rectangle 254" width="3.301" height="2.248" transform="translate(0 0)" fill="#fff"/>
+          </g>
+        </g>
+        <path id="Exclusion_7" data-name="Exclusion 7" d="M6.558,4.939H.281V3.563H0V1.311H.281V0H6.558V4.937ZM.281,1.311V3.562H3.306V1.311Z" transform="translate(139.937 60.803)" fill="#fff"/>
+        <g id="Group_74" data-name="Group 74" transform="translate(144.818 40.21)">
+          <g id="Group_7" data-name="Group 7" transform="translate(27.74 0)" opacity="0.95">
+            <g id="Logobars" transform="translate(0 0)" opacity="0.91">
+              <g transform="matrix(1, 0, 0, 1, -181.56, -51.21)" filter="url(#Rectangle_23)">
+                <rect id="Rectangle_23-2" data-name="Rectangle 23" width="52.358" height="6.624" rx="3.312" transform="translate(181.56 64.47)" fill="#1aff00"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -181.56, -51.21)" filter="url(#Rectangle_24)">
+                <rect id="Rectangle_24-2" data-name="Rectangle 24" width="23.957" height="6.624" rx="3.312" transform="translate(181.56 77.73)" fill="#03dbfe"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -181.56, -51.21)" filter="url(#Rectangle_43)">
+                <rect id="Rectangle_43-2" data-name="Rectangle 43" width="69.338" height="6.624" rx="3.312" transform="translate(181.56 51.21)" fill="red"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -181.56, -51.21)" filter="url(#Rectangle_262)">
+                <rect id="Rectangle_262-2" data-name="Rectangle 262" width="47.729" height="6.624" rx="3.312" transform="translate(181.56 90.99)" fill="#ffe603"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -181.56, -51.21)" filter="url(#Rectangle_269)">
+                <rect id="Rectangle_269-2" data-name="Rectangle 269" width="46.397" height="6.624" rx="3.312" transform="translate(206.99 77.73)" fill="#fe03cc"/>
+              </g>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -153.82, -51.21)" filter="url(#Subtraction_14)">
+            <path id="Subtraction_14-2" data-name="Subtraction 14" d="M1.292,44.819H0V39.971A17.637,17.637,0,0,0,17.3,22.409,17.637,17.637,0,0,0,0,4.848V0H1.292A22.262,22.262,0,0,1,17.137,6.564a22.409,22.409,0,0,1,0,31.692A22.262,22.262,0,0,1,1.292,44.819Z" transform="translate(177.52 96.68) rotate(180)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_62" data-name="Group 62" transform="translate(269.953 47.39)">
+      <g transform="matrix(1, 0, 0, 1, -277.72, -56.66)" filter="url(#Diet_follows_you)">
+        <text id="Diet_follows_you-2" data-name="Diet follows you" transform="translate(277.72 80.66)" fill="#fff" font-size="25" font-family="'Roboto', sans-serif" font-weight="300"><tspan x="0" y="0">Diet follows you</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="449.5" height="149.254" viewBox="0 0 449.5 149.254">
+  <defs>
+    <filter id="My_Project" x="6.495" y="0" width="89" height="82" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="My_Project-2" x="7.048" y="61.143" width="128" height="63" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#111" flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_15" x="5.615" y="60.859" width="133.483" height="26.208" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_254" x="127.598" y="68.31" width="12.012" height="10.849" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_332" x="149.025" y="45.592" width="68.508" height="23.448" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="red" flood-opacity="0.988"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_325" x="149.025" y="78.515" width="68.508" height="23.448" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#fd0" flood-opacity="0.988"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_326" x="173.371" y="67.448" width="52.738" height="23.448" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#ff26cc"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_327" x="149.855" y="56.382" width="76.255" height="23.448" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#00ff08"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_328" x="149.855" y="67.448" width="40.011" height="23.448" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-color="#00d3ff"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_14" x="128.674" y="46.334" width="37.912" height="54.86" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Diet_follows_you." x="241.5" y="51.754" width="208" height="40" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-11"/>
+      <feFlood flood-opacity="0.51"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1097" data-name="Group 1097" transform="translate(147.043 -153.74)">
+    <g id="Group_1079" data-name="Group 1079" transform="translate(-147.043 156.994)">
+      <rect id="Rectangle_275" data-name="Rectangle 275" width="283" height="146" rx="73" fill="none"/>
+      <g id="Group_1080" data-name="Group 1080" transform="translate(14.615 9.746)">
+        <g id="Group_17" data-name="Group 17">
+          <g id="Group_8" data-name="Group 8" transform="translate(0.88)">
+            <g id="Title" transform="translate(0)">
+              <g transform="matrix(1, 0, 0, 1, -15.5, -13)" filter="url(#My_Project)">
+                <text id="My_Project-3" data-name="My Project" transform="translate(15.5 60)" fill="#242424" font-size="49" font-family="'Roboto', sans-serif" font-weight="700" opacity="0.998"><tspan x="0" y="0">Eat</tspan></text>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -15.5, -13)" filter="url(#My_Project-2)">
+                <text id="My_Project-4" data-name="My Project" transform="translate(16.05 106.14)" fill="#242424" font-size="34" font-family="'Roboto', sans-serif" font-weight="700"><tspan x="0" y="0">Project</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="Group_73" data-name="Group 73" transform="translate(0 56.859)">
+            <g id="Group_90" data-name="Group 90">
+              <g transform="matrix(1, 0, 0, 1, -14.61, -69.86)" filter="url(#Path_15)">
+                <path id="Path_15-2" data-name="Path 15" d="M0,0,115.483,1.7V6.051L0,8.208Z" transform="translate(14.61 69.86)" fill="#242424"/>
+              </g>
+              <g id="Group_51" data-name="Group 51" transform="translate(115.483 2.951)" style="isolation: isolate">
+                <g transform="matrix(1, 0, 0, 1, -130.1, -72.81)" filter="url(#Rectangle_254)">
+                  <rect id="Rectangle_254-2" data-name="Rectangle 254" width="3.012" height="1.849" transform="translate(130.1 72.81)" fill="#242424"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1078" data-name="Group 1078" transform="translate(118.957 41.592)">
+          <g id="Group_74" data-name="Group 74" transform="translate(4.102)">
+            <g id="Group_7" data-name="Group 7" transform="translate(20.351)" opacity="0.95">
+              <g id="Logobars" opacity="0.91">
+                <g transform="matrix(1, 0, 0, 1, -158.02, -54.59)" filter="url(#Path_332)">
+                  <path id="Path_332-2" data-name="Path 332" d="M2.724,0h45.06a2.724,2.724,0,0,1,0,5.448H2.724A2.724,2.724,0,0,1,2.724,0Z" transform="translate(158.02 54.59)" fill="red"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -158.02, -54.59)" filter="url(#Rectangle_325)">
+                  <rect id="Rectangle_325-2" data-name="Rectangle 325" width="50.508" height="5.448" rx="2.724" transform="translate(158.02 87.52)" fill="#fd0"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -158.02, -54.59)" filter="url(#Rectangle_326)">
+                  <rect id="Rectangle_326-2" data-name="Rectangle 326" width="34.738" height="5.448" rx="2.724" transform="translate(182.37 76.45)" fill="#ff26cc"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -158.02, -54.59)" filter="url(#Rectangle_327)">
+                  <rect id="Rectangle_327-2" data-name="Rectangle 327" width="58.255" height="5.448" rx="2.724" transform="translate(158.85 65.38)" fill="#00ff08"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -158.02, -54.59)" filter="url(#Rectangle_328)">
+                  <rect id="Rectangle_328-2" data-name="Rectangle 328" width="22.011" height="5.448" rx="2.724" transform="translate(158.85 76.45)" fill="#00d3ff"/>
+                </g>
+              </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -137.67, -54.59)" filter="url(#Subtraction_14)">
+              <path id="Subtraction_14-2" data-name="Subtraction 14" d="M1.481,36.86H0V32.875H.085a14.445,14.445,0,1,0,0-28.89H0V0H1.481A18.309,18.309,0,0,1,14.513,5.4a18.43,18.43,0,0,1,0,26.064A18.309,18.309,0,0,1,1.481,36.86Z" transform="translate(157.59 92.19) rotate(180)" fill="#242424"/>
+            </g>
+          </g>
+          <path id="Exclusion_9" data-name="Exclusion 9" d="M4.625,5.548H0V3.609H2.174V1.935H0V0H4.625V5.547Z" transform="translate(0 16.275)"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -3.25)" filter="url(#Diet_follows_you.)">
+        <text id="Diet_follows_you.-2" data-name="Diet follows you." transform="translate(246 81.25)" fill="#070707" font-size="26" font-family="'Roboto', sans-serif" font-weight="300"><tspan x="0" y="0">Diet follows you.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
