@@ -23,35 +23,48 @@ export default {
     },
     methods: {
         changeMode: function() {
-            if (window.innerHeight < window.innerWidth) {
-                //landscape
-                if (this.current != 1) {
-                    this.current = 1;
-                    this.$router.push({
-                        name: 'Home',
-                        params: {
-                            cover: this.$store.state.cover
-                        },
-                        query: {
-                            lan: this.$store.state.lan
-                        }
-                    });
-                }
-            } else {
-                //portrait
-                if (this.current != 2) {
-                    this.current = 2;
-                    this.$router.push({
-                        name: 'HomeMobile',
-                        params: {
-                            cover: this.$store.state.cover
-                        },
-                        query: {
-                            lan: this.$store.state.lan
-                        }
-                    });
-                }
+            if (this.current != 1) {
+                this.current = 1;
+                this.$router.push({
+                    name: 'Home',
+                    params: {
+                        cover: this.$store.state.cover
+                    },
+                    query: {
+                        lan: this.$store.state.lan
+                    }
+                });
             }
+
+            // if (window.innerHeight < window.innerWidth) {
+            //     //landscape
+            //     if (this.current != 1) {
+            //         this.current = 1;
+            //         this.$router.push({
+            //             name: 'Home',
+            //             params: {
+            //                 cover: this.$store.state.cover
+            //             },
+            //             query: {
+            //                 lan: this.$store.state.lan
+            //             }
+            //         });
+            //     }
+            // } else {
+            //     //portrait
+            //     if (this.current != 2) {
+            //         this.current = 2;
+            //         this.$router.push({
+            //             name: 'HomeMobile',
+            //             params: {
+            //                 cover: this.$store.state.cover
+            //             },
+            //             query: {
+            //                 lan: this.$store.state.lan
+            //             }
+            //         });
+            //     }
+            // }
         }
     }
 };

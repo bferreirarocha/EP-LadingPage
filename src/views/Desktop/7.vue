@@ -101,7 +101,10 @@
                 <span>Cookies</span>
             </div>
             <div class="group">
-                <span>Copyright © 2020, Eat-project</span>
+                <span
+                    >Copyright © {{ new Date().getFullYear() }},
+                    Eat-project</span
+                >
             </div>
         </div>
     </div>
