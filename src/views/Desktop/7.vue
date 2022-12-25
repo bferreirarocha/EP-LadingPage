@@ -94,7 +94,7 @@
         </div>
         <div class="footer">
             <div class="group">
-                <span @click="$emit('changePage', 8)">About us</span>
+                <!-- <span @click="$emit('changePage', 8)">About us</span> -->
                 <!-- <span @click="$emit('changePage', 9)">Contact us</span> -->
                 <span @click="sendEmail">Contact us</span>
                 <span>Privacy</span>

@@ -78,7 +78,8 @@ export default {
     },
     created() {
         this.$store.commit('updateCurrentPage', 10);
-    }
+    } 
+
 };
 </script>
 
