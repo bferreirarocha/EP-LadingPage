@@ -82,11 +82,11 @@
                         decided to start <span>nutritional projects</span> with
                         the specific goal of educating those teenage on the
                         right way to preserve physical shape without neglecting
-                        health, through the proper nutritional plan
-                        supported by health. However, in order to be able to
-                        achive the right strategy based
-                       on  <span>quality and wide variety,</span>
-                        they needed a fundamental ingredient: <span>data.</span>
+                        health, through the proper nutritional plan supported by
+                        health. However, in order to be able to achive the right
+                        strategy based on
+                        <span>quality and wide variety,</span> they needed a
+                        fundamental ingredient: <span>data.</span>
                     </div>
                     <div class="group">
                         It’s 2007, and the digital gastronomy web channels were
@@ -98,12 +98,14 @@
                         reaching out
                         <span
                             >a network of over 5,000 experts from Italy, Brazil,
-                            and USA, and</span>   <span>“connecting people to diet professionals”</span>                       
-                            via WhatsApp and e-mail. <br>After 12 years of collaboration, in 2020 the two
-                        Co-Founders decide to work on the
+                            and USA, and</span
+                        >
+                        <span>“connecting people to diet professionals”</span>
+                        via WhatsApp and e-mail. <br />After 12 years of
+                        collaboration, in 2020 the two Co-Founders decide to
+                        work on the
                         <span>first MVP version of Eat-Project.</span>
                     </div>
-
 
                     <div class="group">
                         Nowadays, the topic of information certification has
@@ -118,41 +120,42 @@
                     <div class="group">
                         The only way to be able to guarantee users a high level
                         of information's reliability on the network, is to
-                       
-                              <span>promote new channels</span > designed to limiting the
-                            dissemination of<br>  <span>"fake information".</span >
+
+                        <span>promote new channels</span> designed to limiting
+                        the dissemination of<br />
+                        <span>"fake information".</span>
                     </div>
 
                     <div class="group">
-                        The project was born to meet the needs of who must 
-                        find
-                        a compromise between <span>gastronomic preferences</span>
-                            and <span>nutritional needs</span>, either <span>“Home &
-                            On-The-Go”.</span>
+                        The project was born to meet the needs of who must find
+                        a compromise between
+                        <span>gastronomic preferences</span> and
+                        <span>nutritional needs</span>, either
+                        <span>“Home & On-The-Go”.</span>
                     </div>
 
                     <div class="group">
                         But Eat-Project doesn't want to be just nutritional
-                        information.<br> The project is a network for
-                        millions of users looking for gastronomic inspiration
-                        through the collaboration of many other professionals in
-                        the Food industry (<span
+                        information.<br />
+                        The project is a network for millions of users looking
+                        for gastronomic inspiration through the collaboration of
+                        many other professionals in the Food industry (<span
                             >Chef, Food Bloggers, Food photographers, Food
                             Reporters, sommeliers, Bar Tenders, Food Companies,
-                             etc...</span
-                        >). <br>Together they will be able to work in the creation,
-                        enhancement, and sharing of multimedia content with a
-                        high creative and information value.
+                            etc...</span
+                        >). <br />Together they will be able to work in the
+                        creation, enhancement, and sharing of multimedia content
+                        with a high creative and information value.
                     </div>
 
                     <div class="group">
-                        The company chooses <span>Milan</span> for strategic reasons related
-                        to the gastronomic and food environment. <br>Also called
-                        <span>"food valley"</span>, after EXPO 2015 Milan
-                        becomes the first global reference center for the food
-                        industry, with over 400 events per year, sposored by 3,080 Italian and foreign 
-                       brands, over 82,000 visitors
-                        and 2, 2 billion in revenues.
+                        The company chooses <span>Milan</span> for strategic
+                        reasons related to the gastronomic and food environment.
+                        <br />Also called <span>"food valley"</span>, after EXPO
+                        2015 Milan becomes the first global reference center for
+                        the food industry, with over 400 events per year,
+                        sposored by 3,080 Italian and foreign brands, over
+                        82,000 visitors and 2, 2 billion in revenues.
                     </div>
                 </div>
             </div>
@@ -298,7 +301,7 @@ export default {
         width: calc(100% - 6rem);
 
         img {
-            height: 8.5rem;
+            height: 6.5rem;
         }
 
         .close {

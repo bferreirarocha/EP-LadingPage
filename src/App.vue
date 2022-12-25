@@ -58,6 +58,7 @@ export default {
 </script>
 
 <style lang="scss">
+@import './scss/functions';
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800&display=swap&subset=latin');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300:400,500,700&display=swap&subset=latin'); //for Home.vue, buttons and logo.svg
 // @import url('https://fonts.googleapis.com/css?family=Public+Sans:500&display=swap'); //for the logo (not anymore)
@@ -67,56 +68,56 @@ body {
     width: 100%;
     height: 100%;
     overflow: hidden;
+    font-size: get-vw(12.5px);
+    // @include largeDesktops {
+    //     font-size: 12.5px;
+    // }
 
-    @include largeDesktops {
-        font-size: 12.5px;
-    }
+    // @include mediumDesktops {
+    //     font-size: 9px;
+    // }
 
-    @include mediumDesktops {
-        font-size: 9px;
-    }
+    // @include hugeTablets {
+    //     font-size: 8px;
+    // }
 
-    @include hugeTablets {
-        font-size: 8px;
-    }
+    // @include hugeTabletsShort {
+    //     font-size: 5.5px;
+    // }
 
-    @include hugeTabletsShort {
-        font-size: 5.5px;
-    }
+    // @include largeTablets {
+    //     font-size: 4.5px;
+    // }
 
-    @include largeTablets {
-        font-size: 4.5px;
-    }
+    // @include portraitMode {
+    //     @include hugeTablets {
+    //         font-size: 21px;
+    //     }
 
-    @include portraitMode {
-        @include hugeTablets {
-            font-size: 21px;
-        }
+    //     @include hugeTabletsShortP {
+    //         font-size: 19px;
+    //     }
 
-        @include hugeTabletsShortP {
-            font-size: 19px;
-        }
+    //     @include largeTablets {
+    //         font-size: 19px;
+    //     }
 
-        @include largeTablets {
-            font-size: 19px;
-        }
+    //     @include largeTabletsShort {
+    //         font-size: 15.5px;
+    //     }
 
-        @include largeTabletsShort {
-            font-size: 15.5px;
-        }
+    //     @include mediumTablets {
+    //         font-size: 12.5px;
+    //     }
 
-        @include mediumTablets {
-            font-size: 12.5px;
-        }
+    //     @include mediumTabletsShort {
+    //         font-size: 10.5px;
+    //     }
 
-        @include mediumTabletsShort {
-            font-size: 10.5px;
-        }
-
-        @include smallTablets {
-            font-size: 8px;
-        }
-    }
+    //     @include smallTablets {
+    //         font-size: 8px;
+    //     }
+    // }
 }
 
 body {

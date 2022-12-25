@@ -222,6 +222,8 @@ export default {
             font-size: 5.6rem;
             font-weight: 800;
 
+            margin-bottom: get-vw(100px);
+
             span {
                 font-size: 3rem;
                 font-weight: 400;

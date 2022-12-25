@@ -105,7 +105,7 @@
                         Let machines
                     </div>
                     <div class="line">
-                        <span>works for you</span>
+                        <span>work for you</span>
                     </div>
                 </div>
                 <div class="description">
